@@ -2,11 +2,12 @@
 permalink: /
 title: "Hello!"
 classes: wide
+toc: true
+toc_label: "Unique Title"
+toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
 Once a mild-mannered media theorist, one day James got bored, taught himself to code and transformed into a computational social scientist. It only hurt a little bit.
-
-- 
 
 I have a background in studying digital cultures, media theory and the intersection of society and technology. These days I spend much of my research time either...
 
