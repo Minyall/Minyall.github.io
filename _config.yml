@@ -75,7 +75,7 @@ author:
       icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.co.uk/citations?hl=en&user=_2XLVUMAAAAJ"
     - label: "Substack"
-      icon: "fab fa-fw fa-feather-pointed"
+      icon: "fa-classic fa-solid fa-feather-pointed"
       url: "https://unserious.substack.com"
 
 footer:
@@ -90,7 +90,7 @@ footer:
       icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.co.uk/citations?hl=en&user=_2XLVUMAAAAJ"
     - label: "Substack"
-      icon: "fab fa-fw fa-feather-pointed"
+      icon: "fa-classic fa-solid fa-feather-pointed"
       url: "https://unserious.substack.com"
 
 defaults:
