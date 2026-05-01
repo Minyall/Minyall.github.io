@@ -13,4 +13,4 @@ I have a background in academia, studying digital cultures, media theory and the
 
 ## Fun Facts!
 
-- I once built a system to collect over 15 million data points to map out a corner of Twitter. {% include video id="-aJaNXbeOjkM" provider="youtube" %}{: .align-right}
+- I once built a system to collect over 15 million data points to map out a corner of Twitter. {% include video id="aJaNXbeOjkM" provider="youtube" %}{: .align-right}
