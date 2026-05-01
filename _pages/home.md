@@ -1,10 +1,14 @@
 ---
 permalink: /
-title: "About"
+title: "Hello!"
+classes: wide
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Once a mild-mannered media theorist, one day James got bored, taught himself to code and transformed into a computational social scientist. It only hurt a little bit.
 
+- 
+
+I have a background in studying digital cultures, media theory and the intersection of society and technology. These days I spend much of my research time either...
 
 ![Picture description](/assets/images/bio-photo.jpg){: .align-center}
 
