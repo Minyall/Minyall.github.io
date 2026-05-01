@@ -23,6 +23,8 @@ twitter_username: username
 github_username: Minyall
 minimal_mistakes_skin: default
 search: false
+atom_feed:
+  hide: true
 
 # Build settings
 markdown: kramdown
