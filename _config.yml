@@ -23,8 +23,6 @@ twitter_username: username
 github_username: Minyall
 minimal_mistakes_skin: default
 search: false
-url: "https://minyall.github.io"
-baseurl: "/"
 
 # Build settings
 markdown: kramdown
@@ -69,7 +67,7 @@ author:
     #   url: "https://"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-square-linkedin"
-      url: "www.linkedin.com/in/jallen-robertson"
+      url: "https://www.linkedin.com/in/jallen-robertson"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Minyall"
@@ -84,7 +82,7 @@ footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-square-linkedin"
-      url: "www.linkedin.com/in/jallen-robertson"
+      url: "https://www.linkedin.com/in/jallen-robertson"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Minyall"
