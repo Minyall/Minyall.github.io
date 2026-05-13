@@ -7,8 +7,7 @@ classes: "wide"
 tagline: "I've been places..."
 show_overlay_excerpt: true
 header:
-    overlay_color: "#333"
-    overlay_filter: "linear-gradient(rgba(198, 249, 86, 0), rgb(255, 255, 255))"
+    overlay_color: "#cfffb5"
 
 ---
 |📄 Talk                                                                                      |📅 Year | 🎤 Event                                                                            |📍 Location                             |
