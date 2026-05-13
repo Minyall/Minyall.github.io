@@ -66,6 +66,7 @@ author:
     - label: "Portfolio"
       icon: "fa-classic fa-solid fa-book"
       url: "/assets/documents/JAR_portfolio.pdf"
+      target: "_blank"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-square-linkedin"
       url: "https://www.linkedin.com/in/jallen-robertson"
