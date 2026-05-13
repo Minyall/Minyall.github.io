@@ -3,10 +3,11 @@ permalink: /talks/
 title: "Talks"
 layout: "single"
 search: true
+classes: "wide"
 excerpt: "I've been places..."
 
 ---
-|📄 Title                                                                                      |📅 Year | 🎤 Event                                                                            |📍 Location                             |
+|📄 Talk                                                                                      |📅 | 🎤 Event                                                                            |📍 Location                             |
 |--------------------------------------------------------------------------------------------|------|----------------------------------------------------------------------------------|--------------------------------------|
 | Neoreactionary Networks: Mapping extreme and mainstream Twitter                            | 2023 | Media@Sydney                                                                     | University of Sydney, Australia      |
 | Mapping Radical Communities on Twitter                                                     | 2020 | Facebook Social Science Foo Camp                                                 | Palo Alto, USA                       |
