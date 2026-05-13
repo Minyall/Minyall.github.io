@@ -20,4 +20,3 @@ I have a background in academia, teaching and studying stuff like **Radicalisati
 - I have the prefix *Dr.* on my bank cards because I have a PhD, which of course is the primary benefit.
 - I get to put *FRSA* in my email signature because I am a Fellow of the [Royal Society of Arts](https://www.thersa.org).
 - I can probably put some other acronym somewhere else because I am an Honorary Fellow of the University of Essex.
-- I once built a system to collect over 15 million data points to map out a corner of Twitter, then I talked about it [on YouTube](https://www.youtube.com/watch?v=aJaNXbeOjkM). I have summaries of this project and many others [on my LinkedIn](https://www.linkedin.com/in/jallen-robertson/details/projects/).
