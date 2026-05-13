@@ -66,9 +66,9 @@ author:
   avatar : "/assets/images/cartoon_profile.png"
   bio    : "📚 Computational Social Scientist for Autism Action. Recovering Academic. Self-critical geek 🤓"
   links:
-    # - label: "Website"
-    #   icon: "fas fa-fw fa-link"
-    #   url: "https://"
+    - label: "Portfolio"
+      icon: "fa-classic fa-solid fa-book"
+      url: "/assets/documents/JAR_portfolio.pdf"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-square-linkedin"
       url: "https://www.linkedin.com/in/jallen-robertson"
