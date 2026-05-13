@@ -14,7 +14,7 @@ I specialise in large scale text and network analysis, data visualisation and we
 
 I have a background in academia, teaching and studying stuff like **Radicalisation** and the **Far-Right**, **Ideology** and the **Politics of Tech Cultures**, and **Sociotechnical** change.
 
-## Fun Facts!
-- I have the prefix *Dr.* on my bank cards because I have a PhD, which of course is the primary benefit.
-- I get to put *FRSA* in my email signature because I am a Fellow of the [Royal Society of Arts](https://www.thersa.org).
-- I can probably put some other acronym somewhere else because I am an Honorary Fellow of the University of Essex.
+### Fun Facts {: .notice--info}
+- I have the prefix *Dr.* on my bank cards because I have a PhD, which of course is the primary benefit. {: .notice--info}
+- I get to put *FRSA* in my email signature because I am a Fellow of the [Royal Society of Arts](https://www.thersa.org). {: .notice--info}
+- I can probably put some other acronym somewhere else because I am an Honorary Fellow of the University of Essex. {: .notice--info}
