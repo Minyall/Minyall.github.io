@@ -13,11 +13,11 @@ header:
 ---
 |📄 Talk                                                                                      |📅 Year | 🎤 Event                                                                            |📍 Location                             |
 |:--------------------------------------------------------------------------------------------|:------:|:----------------------------------------------------------------------------------:|--------------------------------------:|
-| Neoreactionary Networks: Mapping extreme and mainstream Twitter                            | 2023 | Media@Sydney                                                                     | University of Sydney, Australia      |
+| Neoreactionary Networks: Mapping extreme and mainstream Twitter <i class="fa-solid fa-user"></i>                            | 2023 | Media@Sydney                                                                     | University of Sydney, Australia      |
 | Mapping Radical Communities on Twitter                                                     | 2020 | Facebook Social Science Foo Camp                                                 | Palo Alto, USA                       |
 | Gender Equality in Social Data Science                                                     | 2019 | Sage Ocean Panel                                                                 | London, United Kingdom               |
 | Encrypting Human Rights: The intertwining of voices in the UK state surveillance debate    | 2019 | International Conference in Ideology and Discourse Analysis                      | University of Essex, United Kingdom  |
-| What can Data Scientists Learn from Social Scientists?                                     | 2018 | nterdisciplinary Alchemy: Data Science + Social Science                          | London, United Kingdom               |
+| What can Data Scientists Learn from Social Scientists?                                     | 2018 | Interdisciplinary Alchemy: Data Science + Social Science                          | London, United Kingdom               |
 | The Uber Game: Exploring the User/Algorithm Relationship through new Computational Methods | 2018 | Digital Cultures: Knowledge \| Culture \| Technology                             | Leuphana University, Germany         |
 | Computational Social Science                                                               | 2018 | National Centre for Research Methods Festival                                    | University of Bath, United Kingdom   |
 | The Uber Game: Exploring Algorithmic Managment and Resistance                              | 2017 | Networked Publics: Association of Internet Researchers                           | Tartu, Estonia                       |
