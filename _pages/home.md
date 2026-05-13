@@ -21,6 +21,6 @@ I have a background in academia, teaching and studying stuff like **Radicalisati
 - I can probably put some other acronym somewhere else because I am an Honorary Fellow of the University of Essex.
 {% endcapture %}
 
-<div class="notice--info">
+<div class="notice--success">
 {{ fun_facts_notice | markdownify }}
 </div>
