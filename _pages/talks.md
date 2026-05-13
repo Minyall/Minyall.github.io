@@ -7,7 +7,8 @@ classes: "wide"
 tagline: "I've been places..."
 show_overlay_excerpt: true
 header:
-    overlay_color: "#cfffb5"
+    overlay_color: "#eb34f9"
+    overlay_filter: 0.5
 
 ---
 |📄 Talk                                                                                      |📅 Year | 🎤 Event                                                                            |📍 Location                             |
