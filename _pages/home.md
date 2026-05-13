@@ -2,15 +2,27 @@
 permalink: /
 title: "Hello!"
 # classes: wide
-toc: true
+toc: false
 toc_label: "Unique Title"
 toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
 Once a mild-mannered media theorist, one day James got bored, taught himself to code and transformed into a computational social scientist. It only hurt a little bit.
 
-I have a background in academia, studying digital cultures, media theory and the intersection of society and technology and specialise in creative methods using data science. These days I work as a Data Analyst for the charity [*Autism Action*](https://autismaction.org.uk) helping to improve the lives of Autistic people.
+I work as a Data Analyst for the charity [*Autism Action*](https://autismaction.org.uk) helping to improve the lives of Autistic people.
+
+I have a background in academia teaching and studying... a lot of things. 
+- Radicalisation and the far-right
+- The Politics of Tech Cultures
+- Piracy
+- Media theory
+- The relationship between Technology and Society 
+- AND I specialise in creative research methods using data science.
+
+I draw on all of this amassed knowledge (useful and useless) to help me do what I do.
 
 ## Fun Facts!
-
-- I once built a system to collect over 15 million data points to map out a corner of Twitter. {% include video id="aJaNXbeOjkM" provider="youtube" %}{: .align-right}
+- I have the prefix *Dr.* on my bank cards because I have a PhD, which of course is the primary benefit.
+- I get to put *FRSA* in my email signature because I am a Fellow of the [Royal Society of Arts](https://www.thersa.org).
+- I can probably put some other acronym somewhere else because I am an Honorary Fellow of the University of Essex.
+- I once built a system to collect over 15 million data points to map out a corner of Twitter, then I talked about it [on YouTube](https://www.youtube.com/watch?v=aJaNXbeOjkM). I have summaries of this project and many others [on my LinkedIn](https://www.linkedin.com/in/jallen-robertson/details/projects/).
