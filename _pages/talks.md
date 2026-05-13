@@ -13,7 +13,7 @@ header:
 ---
 |📄 Talk                                                                                      |📅 Year | 🎤 Event                                                                            |📍 Location                             |
 |:--------------------------------------------------------------------------------------------|:------:|:----------------------------------------------------------------------------------:|--------------------------------------:|
-| Neoreactionary Networks: Mapping extreme and mainstream Twitter <i class="fa-solid fa-user"></i>                            | 2023 | Media@Sydney                                                                     | University of Sydney, Australia      |
+| Neoreactionary Networks: Mapping extreme and mainstream Twitter [<i class="fa-brands fa-youtube"></i>](https://www.youtube.com/watch?v=aJaNXbeOjkM&)                            | 2023 | Media@Sydney                                                                     | University of Sydney, Australia      |
 | Mapping Radical Communities on Twitter                                                     | 2020 | Facebook Social Science Foo Camp                                                 | Palo Alto, USA                       |
 | Gender Equality in Social Data Science                                                     | 2019 | Sage Ocean Panel                                                                 | London, United Kingdom               |
 | Encrypting Human Rights: The intertwining of voices in the UK state surveillance debate    | 2019 | International Conference in Ideology and Discourse Analysis                      | University of Essex, United Kingdom  |
