@@ -62,7 +62,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "James Allen-Robertson"
+  name   : "Me Stuff"
   avatar : "/assets/images/cartoon_profile.png"
   bio    : "📚 Computational Social Scientist for Autism Action. Recovering Academic. Self-critical geek 🤓"
   links:
