@@ -8,7 +8,7 @@ excerpt: "I've been places..."
 
 ---
 |📄 Talk                                                                                      |📅 | 🎤 Event                                                                            |📍 Location                             |
-|--------------------------------------------------------------------------------------------|------|----------------------------------------------------------------------------------|--------------------------------------|
+|:--------------------------------------------------------------------------------------------|:------:|:----------------------------------------------------------------------------------:|--------------------------------------:|
 | Neoreactionary Networks: Mapping extreme and mainstream Twitter                            | 2023 | Media@Sydney                                                                     | University of Sydney, Australia      |
 | Mapping Radical Communities on Twitter                                                     | 2020 | Facebook Social Science Foo Camp                                                 | Palo Alto, USA                       |
 | Gender Equality in Social Data Science                                                     | 2019 | Sage Ocean Panel                                                                 | London, United Kingdom               |
