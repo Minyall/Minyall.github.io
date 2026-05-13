@@ -7,12 +7,12 @@ toc_label: "Unique Title"
 toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
-![Picture description](/assets/images/network_sm.png){: .align-right}
+![Picture description](/assets/images/network_borderless.png){: .align-right}
 Once a mild-mannered media theorist, one day James got bored, taught himself to code and transformed into a computational social scientist. It only hurt a little bit.
 
 I work as a Data Analyst for the charity [*Autism Action*](https://autismaction.org.uk) helping to improve the lives of Autistic people. I specialise in large scale text and network analysis, data visualisation and webscraping from unusual sources using Python.
 
-I have a background in academia teaching and studying stuff like **Radicalisation** and the **Far-Right**, **Ideology** and the **Politics of Tech Cultures**, and **Sociotechnical** change.
+I have a background in academia, teaching and studying stuff like **Radicalisation** and the **Far-Right**, **Ideology** and the **Politics of Tech Cultures**, and **Sociotechnical** change.
 
 ## Fun Facts!
 - I have the prefix *Dr.* on my bank cards because I have a PhD, which of course is the primary benefit.
