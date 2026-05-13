@@ -1,5 +1,7 @@
 ---
 permalink: /
+classes: "wide"
+layout: "single"
 title: "Hello!"
 ---
 
