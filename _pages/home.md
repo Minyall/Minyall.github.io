@@ -12,7 +12,7 @@ Once a mild-mannered media theorist, one day James got bored, taught himself to 
 
 I work as a Data Analyst for the charity [*Autism Action*](https://autismaction.org.uk) helping to improve the lives of Autistic people. I specialise in large scale text and network analysis, data visualisation and webscraping from unusual sources using Python.
 
-I have a background in academia teaching and studying a lot of things which I draw on to help me do what I do. Stuff like: **Radicalisation** and the **Far-Right**, **Ideology** and the **Politics of Tech Cultures**, and **Sociotechnical** change.
+I have a background in academia teaching and studying stuff like **Radicalisation** and the **Far-Right**, **Ideology** and the **Politics of Tech Cultures**, and **Sociotechnical** change.
 
 ## Fun Facts!
 - I have the prefix *Dr.* on my bank cards because I have a PhD, which of course is the primary benefit.
