@@ -1,10 +1,6 @@
 ---
 permalink: /
 title: "Hello!"
-# classes: wide
-toc: false
-toc_label: "Unique Title"
-toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
 ![A colorful visualisation of a network](/assets/images/network_borderless.png){: .align-right}
