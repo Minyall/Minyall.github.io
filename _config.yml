@@ -20,7 +20,7 @@ description: "The personal site of James Allen-Robertson, 📚 Computational Soc
 twitter_username: username
 github_username: Minyall
 minimal_mistakes_skin: default
-search: true
+search: false
 logo: "/assets/images/banner_light.png"
 atom_feed:
   hide: true
